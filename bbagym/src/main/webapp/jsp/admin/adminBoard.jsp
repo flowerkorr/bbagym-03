@@ -6,8 +6,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>유저관리</title>
- <link rel="stylesheet" href="css/admin_board.css"/>
- <link rel="stylesheet" href="css/admin_header.css"/>
+ <link rel="stylesheet" href="../../css/admin/adminBoard.css"/>
+ <link rel="stylesheet" href="../../css/admin/adminHeader.css"/>
  <link rel="icon" href="../img/로고.png">
 
 </head>
@@ -17,7 +17,7 @@
         <ul class="admin_header_ul">
             <li>
                     <div class="admin_header_category">
-                        <a href="admin_board.html">
+                        <a href="adminBoard.jsp">
                             게시판관리
                         </a>
                     </div>
@@ -26,14 +26,14 @@
             </li>
             <li>
                 <div class="admin_header_category">
-                    <a href="admin_user.html">
+                    <a href="adminUser.jsp">
                         회원관리
                     </a>
                 </div>
             </li>
             <li>
                 <div class="admin_header_category">
-                    <a href="admin_notice.html">
+                    <a href="adminNotice.jsp">
                         공지사항 관리
                     </a>
                 </div>
@@ -61,7 +61,7 @@
                     <td>1</td>
                     <td>이종민</td>
                     <td>중화 복싱 체육관</td>
-                    <td><a href="../cuj/gymDetaile.html">왜 중화복싱체육관을 다녀야할까요?</a>
+                    <td><a href="../view/gymDetaile.jsp">왜 중화복싱체육관을 다녀야할까요?</a>
                         </td>
                     <td><button onclick="confirm('정말 삭제하시겠습니까?')">삭제</button></td>   
                 </tr><!-- 첫번째 줄 끝 -->

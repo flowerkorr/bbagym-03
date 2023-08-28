@@ -6,13 +6,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>로그인</title>
-    <link rel="stylesheet" href="css/adminLogin.css">
-    <link rel="icon" herf="../img/로고.png">
+    <link rel="stylesheet" href="../../css/admin/adminLogin.css">
+    <link rel="icon" href="../img/로고.png">
 </head>
 <body>
     <div class="container">
         <a href="/main/main.html">
-            <img src="../pmg/logo.png" class="logo">
+            <img src="../../img/로고.png" class="logo">
         </a>
         <h2 class="admin_login_title">관리자 로그인</h2>
         <hr>

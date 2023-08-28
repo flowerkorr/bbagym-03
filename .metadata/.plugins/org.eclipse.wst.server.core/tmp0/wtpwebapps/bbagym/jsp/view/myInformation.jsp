@@ -13,11 +13,11 @@
 <body>
     
     <div class="container">
-        <a href="#">
+       
             <div class="profile-img-container">
                 <img src="https://stone-i-dagym-centers.s3.ap-northeast-2.amazonaws.com/images/profile/icon2/11.png" class="profile-img"/>
             </div>
-        </a>
+        
        
         <div class="information-box">
             <p class="information-title">기본 정보</p>

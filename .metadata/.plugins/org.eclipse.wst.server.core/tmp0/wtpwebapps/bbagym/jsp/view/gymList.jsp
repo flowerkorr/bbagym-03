@@ -17,8 +17,8 @@
               
                 <div class="list-content">
                         <div class="list-img-box"><!--게시판 사진 컨테이너-->
-                            <a href="../cuj/gymDetaile.html">
-                                <img class="list-img" src="img-ljm/운동시설1.jpg"/><!--게시판 사진-->
+                            <a href="gymDetaile.jsp">
+                                <img class="list-img" src="../../img/gymListImg/운동시설1.jpg"/><!--게시판 사진-->
                             </a>
                             
                         </div>
@@ -45,7 +45,7 @@
                         
                             <div class="list-img-box"><!--게시판 사진 컨테이너-->
                                 <a href="../cuj/gymDetaile.html">
-                                    <img class="list-img" src="img-ljm/운동시설2.jpg"/><!--게시판 사진-->
+                                    <img class="list-img" src="../../img/gymListImg/운동시설2.jpg"/><!--게시판 사진-->
                                 </a>
                             </div>
                        
@@ -72,7 +72,7 @@
                     
                         <div class="list-img-box"><!--게시판 사진 컨테이너-->
                             <a href="../cuj/gymDetaile.html">
-                                <img class="list-img" src="img-ljm/운동시설3.jpg"/><!--게시판 사진-->
+                                <img class="list-img" src="../../img/gymListImg/운동시설3.jpg"/><!--게시판 사진-->
                             </a>
 
                         </div>
@@ -97,7 +97,7 @@
                     
                         <div class="list-img-box"><!--게시판 사진 컨테이너-->
                             <a href="../cuj/gymDetaile.html">
-                                <img class="list-img" src="img-ljm/운동시설4.jpg"/><!--게시판 사진-->
+                                <img class="list-img" src="../../img/gymListImg/운동시설4.jpg"/><!--게시판 사진-->
                             </a>
                         </div>
                     
@@ -121,7 +121,7 @@
                     
                         <div class="list-img-box"><!--게시판 사진 컨테이너-->
                             <a href="../cuj/gymDetaile.html">
-                                <img class="list-img" src="img-ljm/운동시설5.jpg"/><!--게시판 사진-->
+                                <img class="list-img" src="../../img/gymListImg/운동시설5.jpg"/><!--게시판 사진-->
                             </a>
                         </div>
                     
@@ -144,7 +144,7 @@
                     
                         <div class="list-img-box"><!--게시판 사진 컨테이너-->
                             <a href="../cuj/gymDetaile.html">
-                                <img class="list-img" src="img-ljm/운동시설6.jpg"/><!--게시판 사진-->
+                                <img class="list-img" src="../../img/gymListImg/운동시설6.jpg"/><!--게시판 사진-->
                             </a>
                         </div>
                    
@@ -168,7 +168,7 @@
                     
                         <div class="list-img-box"><!--게시판 사진 컨테이너-->
                             <a href="../cuj/gymDetaile.html">
-                                <img class="list-img" src="img-ljm/운동시설7.jpg"/><!--게시판 사진-->
+                                <img class="list-img" src="../../img/gymListImg/운동시설7.jpg"/><!--게시판 사진-->
                             </a>
                         </div>
                     
@@ -191,7 +191,7 @@
                     
                         <div class="list-img-box"><!--게시판 사진 컨테이너-->
                            <a href="../cuj/gymDetaile.html">
-                            <img class="list-img" src="img-ljm/운동시설8.jpg"/><!--게시판 사진-->
+                            <img class="list-img" src="../../img/gymListImg/운동시설8.jpg"/><!--게시판 사진-->
                            </a>
                         </div>
                     
@@ -215,7 +215,7 @@
                     
                         <div class="list-img-box"><!--게시판 사진 컨테이너-->
                             <a href="../cuj/gymDetaile.html">
-                                <img class="list-img" src="img-ljm/운동시설9.jpg"/><!--게시판 사진-->
+                                <img class="list-img" src="../../img/gymListImg/운동시설9.jpg"/><!--게시판 사진-->
                             </a>
                         </div>
                    
@@ -236,7 +236,7 @@
                     
                         <div class="list-img-box"><!--게시판 사진 컨테이너-->
                             <a href="../cuj/gymDetaile.html">
-                                <img class="list-img" src="img-ljm/운동시설10.jpg"/><!--게시판 사진-->
+                                <img class="list-img" src="../../img/gymListImg/운동시설10.jpg"/><!--게시판 사진-->
                             </a>
                         </div>
                     

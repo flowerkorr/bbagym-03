@@ -15,7 +15,7 @@
         <ul class="admin_header_ul">
             <li>
                     <div class="admin_header_category">
-                        <a href="admin_board.html">
+                        <a href="adminBoard.jsp">
                             게시판관리
                         </a>
                     </div>
@@ -24,14 +24,14 @@
             </li>
             <li>
                 <div class="admin_header_category">
-                    <a href="admin_user.html">
+                    <a href="adminUser.jsp">
                         회원관리
                     </a>
                 </div>
             </li>
             <li>
                 <div class="admin_header_category">
-                    <a href="admin_notice.html">
+                    <a href="adminNotice.jsp">
                         공지사항 관리
                     </a>
                 </div>
